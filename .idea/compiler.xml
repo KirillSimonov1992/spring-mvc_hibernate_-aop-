@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring.course.mvc_hibernate_aop" />
+        <module name="com.simonov_kirill.spring.mvc_hibernate_aop" />
+        <module name="com.simonov_kirill.spring.mvc_hibernate_mvc" />
+        <module name="com.simonovkirill.spring.mvc_hibernate_mvc" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
